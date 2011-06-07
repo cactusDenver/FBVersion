@@ -15,3 +15,5 @@ create a folder on your server for example www.example.com/facebook
 place all of the files from FBVersion in this folder.
 Create an application on Facebook and point the Canvas URL to your URL
 Once you've done this you're ready to rock and roll! 
+
+here's a working demo http://www.facebook.com/apps/application.php?id=177674102290105&sk=app_177674102290105
